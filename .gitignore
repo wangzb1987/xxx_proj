@@ -1,0 +1,13 @@
+/EWARM/settings
+
+/EWARM/xxx_v1
+
+/EWARM/Meas_RamDBG
+
+/EWARM/*.dep
+
+*.ewd
+*.dep
+~*.docx
+
+
